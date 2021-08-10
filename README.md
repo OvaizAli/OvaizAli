@@ -8,7 +8,7 @@ You can find me on,
   <a href="https://www.linkedin.com/in/ovaiz-ali/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ovaizali123@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.quora.com/profile/Ovaiz-Ali"><img title="Quora" src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=fff"/></a>
-  <a href="https://www.coursera.org/user/894a184e37e4c4bb50544fcdc21a4edd"><img title="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=fff"/></a>
+  <a href="https://www.coursera.org/user/74a7f75d3bef1429e014f584adb49625"><img title="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=fff"/></a>
   <a href="https://www.kaggle.com/ovaizali"><img title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=fff"/></a>  
   
 </p>
