@@ -12,9 +12,10 @@ You can find me on,
   <a href="https://www.kaggle.com/ovaizali"><img title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=fff"/></a>  
   
 </p>
+
+
 - 👋 Hi, I’m @OvaizAli
 - 🏫 Currently studying **Bachelors in Science in Computer Science (BSCS) at FAST NUCES Karachi.**
 - 🌱 I’m currently learning Data Science, Machine Learning and Deep Learning.
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ovaiz-ali/)
 
 
