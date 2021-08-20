@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 # author: Ovaiz Ali
-image: assets/images/Photo.png
+image: assets/images/about/Photo.png
 # signature: assets/images/about/signature.png
 ---
 
