@@ -12,10 +12,10 @@ address: Al Azhar Garden, Malir, Sector 35-b, Karachi, Pakistan
 copyright:
 
 menu:
-  - { name: About, link: "/about" }
-  - { name: Portfolio, link: "/portfolio" }
-  - { name: Tutorials, link: "/blog" }
-  - { name: Contact, link: "/contact" }
+  - { name: About, link: "OvaizAli/about" }
+  - { name: Portfolio, link: "OvaizAli/portfolio" }
+  - { name: Tutorials, link: "OvaizAli/blog" }
+  - { name: Contact, link: "OvaizAli/contact" }
 
 #-------------------------------
 # Google Analytics Section
