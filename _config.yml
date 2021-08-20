@@ -16,7 +16,7 @@ defaults:
   - scope:
       path: "_pages"
     values:
-      permalink: /:basename:output_ext
+      permalink: OvaizAli/:basename:output_ext
 
 include:
   - _pages
