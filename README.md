@@ -16,7 +16,7 @@ You can find me on,
 
 
 - 👋 Hi, I’m @OvaizAli
-- 🏫 Currently studying **Master of Applied Computer Science (MACS) at Dalhousie University.**
-- 🌱 I’m currently learning Data Science, Machine Learning and Deep Learning.
+- 🏫 Currently studying **Master of Applied Computer Science (MACS) at Dalhousie University (Halifax, NS).**
+- 🌱 I’m currently exploring Data Analytics.
 
 
