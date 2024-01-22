@@ -16,7 +16,7 @@ You can find me on,
 
 
 - 👋 Hi, I’m @OvaizAli
-- 🏫 Currently studying **Bachelors in Science in Computer Science (BSCS) at FAST NUCES Karachi.**
+- 🏫 Currently studying **Master of Applied Computer Science (MACS) at Dalhousie University.**
 - 🌱 I’m currently learning Data Science, Machine Learning and Deep Learning.
 
 
