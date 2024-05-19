@@ -25,37 +25,133 @@ In my free time, I actively participate in Kaggle competitions and hackathons to
 ## 💼 Technical Expertise
 
 ### Programming Languages
-- Proficiency in Python (including libraries like pandas, NumPy, scikit-learn, PySpark, TensorFlow)
-- Java
-- SQL (including dialects like PL/SQL)
-- C#
-- R
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png"/><br>
+  Python (including libraries like pandas, NumPy, scikit-learn, PySpark, TensorFlow)
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><br>
+  Java
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png"/><br>
+  SQL (including dialects like PL/SQL)
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/><br>
+  C#
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/r-programming-language.png"/><br>
+  R
+</div>
 
 ### Databases
-- SQL Server
-- MySQL
-- PostgreSQL
-- Oracle
-- MongoDB
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/><br>
+  SQL Server
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><br>
+  MySQL
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/><br>
+  PostgreSQL
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/><br>
+  Oracle
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/><br>
+  MongoDB
+</div>
 
 ### Cloud Platforms
-- Azure (Synapse, Data Lake, Data Factory)
-- AWS (S3, EC2, Redshift)
-- Snowflake
-- Google Cloud Platform
-- Databricks
-- DigitalOcean
-- Heroku
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png"/><br>
+  Azure (Synapse, Data Lake, Data Factory)
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/><br>
+  AWS (S3, EC2, Redshift)
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/snowflake.png"/><br>
+  Snowflake
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/><br>
+  Google Cloud Platform
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/apache-spark.png"/><br>
+  Databricks
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/digitalocean.png"/><br>
+  DigitalOcean
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/heroku.png"/><br>
+  Heroku
+</div>
 
 ### Tools and Frameworks
-- SSRS
-- Apache Airflow
-- Kafka
-- Kubernetes
-- Streamlit
-- FastAPI
-- Beautiful Soup
-- .NET frameworks (Spring Boot)
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/><br>
+  SSRS
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/apache-airflow.png"/><br>
+  Apache Airflow
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/kafka.png"/><br>
+  Kafka
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/><br>
+  Kubernetes
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/streamlit.png"/><br>
+  Streamlit
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/fastapi.png"/><br>
+  FastAPI
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/teapot.png"/><br>
+  Beautiful Soup
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/><br>
+  .NET frameworks (Spring Boot)
+</div>
 
 ---
 
