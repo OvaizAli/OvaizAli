@@ -59,9 +59,5 @@ In my free time, I actively participate in Kaggle competitions and hackathons to
 
 ---
 
-## 📊 Most Used Languages
-
-Here's a chart showcasing the most used programming languages in my GitHub repositories:
-
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OvaizAli)](https://github.com/OvaizAli/github-readme-stats)
 
