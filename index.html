@@ -52,7 +52,7 @@
 }
 
 .text h2 {
-  color: #a2d5f2; /* Light cool blue */
+  color: #14B8A6; /* Teal */
 }
 
 .skill-mf .progress {
@@ -63,7 +63,7 @@
 }
 
 .skill-mf .progress .progress-bar {
-  background-color: #f4b321; /* Slightly deeper golden yellow */
+  background-color: #06B6D4; /* Cyan */
 }
 
 .slider-item .overlay {
@@ -127,6 +127,42 @@
 
 .zoom-effect:hover {
   transform: scale(1.1);
+}
+
+.tech-tag {
+  display: inline-block;
+  background: #7C3AED;
+  color: #fff;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  margin: 0.25rem 0.25rem 0.5rem 0;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.tech-tags-container {
+  margin: 0.5rem 0 1rem 0;
+}
+
+.resume-wrap ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.resume-wrap ul li {
+  margin-left: 0;
+  padding-left: 1.5rem;
+  position: relative;
+}
+
+.resume-wrap ul li:before {
+  content: "▸";
+  color: #14B8A6;
+  font-weight: bold;
+  position: absolute;
+  left: 0;
 }
 
 
@@ -239,7 +275,7 @@
 										<p><span class="title-s"><b>Name:</b> </span> <span>Ovaiz Ali</span></p>
 										<p><span class="title-s"><b>Job Role:</b> </span> <span>Data Engineer</span></p>
 										<p><span class="title-s"><b>Experience: </b></span> <span>2+ Years</span></p>
-										<p><span class="title-s"><b>Address: </b></span> <span>Halifax, Canada</span></p>
+										<p><span class="title-s"><b>Address: </b></span> <span>Calgary, AB, Canada</span></p>
 									  </div>
 									</div>
 								  </div>
@@ -248,6 +284,8 @@
 									<br>
 									
 									<p class="title-s">Technical Skills</p>
+									
+									<p style="font-size: 0.85rem; color: #14B8A6; font-weight: 600; margin-top: 1rem; text-transform: uppercase;">Core Languages</p>
 									<span>PYTHON</span> <span class="pull-right">95%</span>
 									<div class="progress">
 										<div class="progress-bar" role="progressbar" style="width: 95%;" aria-valuenow="95" aria-valuemin="0"
@@ -260,6 +298,7 @@
 											aria-valuemax="100"></div>
 									</div>
 									
+									<p style="font-size: 0.85rem; color: #14B8A6; font-weight: 600; margin-top: 1rem; text-transform: uppercase;">Data & Cloud</p>
 									<span>ETL and Data Warehouses</span> <span class="pull-right">90%</span>
 									<div class="progress">
 										<div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0"
@@ -272,6 +311,7 @@
 											aria-valuemax="100"></div>
 									</div>
 									
+									<p style="font-size: 0.85rem; color: #14B8A6; font-weight: 600; margin-top: 1rem; text-transform: uppercase;">AI & Analytics</p>
 									<span>AI &amp; Machine Learning</span> <span class="pull-right">80%</span>
 									<div class="progress">
 										<div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0"
@@ -323,14 +363,13 @@
     </section>
 
 
-
 	
     <section class="ftco-section ftco-no-pb" id="resume-section">
     	<div class="container">
-    		<div class="row justify-content-center pb-5">
+        <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-10 heading-section text-center ftco-animate">
           	<h1 class="big big-2">Resume</h1>
-            <h2 class="mb-4">Resume</h2>
+            <h2 class="mb-4">Professional Journey</h2>
             <p>Seasoned Data Engineer with 2+ years of experience building robust data pipelines and infrastructure to empower data-driven decision making.
 				Proven expertise in data extraction, transformation, and loading (ETL), cloud platforms, and big data processing.</p>
           </div>
@@ -346,13 +385,12 @@
 			<div class="col-md-6">
 				<div class="resume-wrap ftco-animate">
 					<span class="date">May 2025 – Present</span>
-					<h2>Consultant, Data and Analytics [Data Engineer]</h2>
+					<h2>Consultant, Data and Analytics</h2>
 					<span class="position">BDO Canada LLP</span>
 					<p class="mt-4">
 						<ul>
-							<li>Designed and implemented a scalable, config-driven ETL pipeline using the medallion architecture on Microsoft Fabric, automating daily incremental ingestion, transformation, and data masking via PySpark notebooks and Fabric pipelines for Credit Union, Public Sector, and Law clients.</li>
-							<li>Collaborated with clients to plan and deploy Fabric items via Fabric Deployment Pipelines and promptly resolved hypercare defects, achieving a less than 1% production failure rate.</li>
-							
+							<li>Designed scalable ETL pipelines using medallion architecture on Microsoft Fabric with PySpark and config-driven automation.</li>
+							<li>Deployed Fabric items and resolved production defects, achieving less than 1% failure rate for Credit Union and Public Sector clients.</li>
 						</ul>
 					</p>
 				</div>
@@ -361,13 +399,12 @@
 			<div class="col-md-6">
 				<div class="resume-wrap ftco-animate">
 					<span class="date">Jan 2025 – May 2025</span>
-					<h2>Intern, Data and Analytics [Data Engineer]</h2>
+					<h2>Intern, Data and Analytics</h2>
 					<span class="position">BDO Canada LLP</span>
 					<p class="mt-4">
 						<ul>
-							<li>Designed and implemented an end-to-end data engineering project using medallion architecture on Microsoft Fabric with Data Factory, PySpark Notebooks, Machine Learning, and Power BI.</li>
-							<li>Utilized 8 million synthetic records to prototype a product recommendation use case for Credit Union clients.</li>
-							<li>Developed a data migration ETL pipeline for 130+ on-prem databases with encrypted columns using Azure Data Factory and Key Vault to migrate data to the Lakehouse in Fabric, implementing row- and column-level security to secure data retrieval and reduce report consolidation time by over 87%.</li>
+							<li>Built end-to-end data engineering project using Microsoft Fabric with PySpark, Data Factory, and Power BI.</li>
+							<li>Prototyped ML recommendation engine with 8 million synthetic records and migrated 130+ on-prem databases with 87% faster consolidation.</li>
 						</ul>
 					</p>
 				</div>
@@ -380,8 +417,8 @@
 					<span class="position">Crony Software</span>
 					<p class="mt-4">
 						<ul>
-							<li>Developed an end-to-end NLP chatbot using NLTK and FastAPI, deployed on Heroku with CI/CD, boosting customer experience by 20%.</li>
-							<li>Prototyped ML and Generative AI (RAG) solutions using LangChain, Hugging Face, and OpenAI API, serving 300+ weekly customers and improving retail analytics.</li>
+							<li>Developed NLP chatbot using NLTK and FastAPI with CI/CD deployment, improving customer experience by 20%.</li>
+							<li>Prototyped RAG solutions using LangChain and OpenAI, serving 300+ weekly customers for retail analytics.</li>
 						</ul>
 					</p>
 				</div>
@@ -390,13 +427,12 @@
 			<div class="col-md-6">
 				<div class="resume-wrap ftco-animate">
 					<span class="date">Aug 2022 – Dec 2023</span>
-					<h2>Junior Consultant [Data Engineer]</h2>
+					<h2>Junior Consultant, Data Engineer</h2>
 					<span class="position">Systems Limited</span>
 					<p class="mt-4">
 						<ul>
-							<li>Improved SSRS reporting by 30% using SQL query tuning, stored procedures, and views.</li>
-							<li>Enhanced data extraction from Hadoop and Hive by 15% with Apache Spark for Banking clients.</li>
-							<li>Managed TB-scale BFSI data in Vertica/Cloudera, reduced downtime by 30%, and optimized ETL pipelines on Azure Synapse using SQL Server, IBM DataStage, Kafka, and Python.</li>
+							<li>Improved SSRS reporting by 30% using SQL optimization and managed TB-scale BFSI data in Vertica/Cloudera.</li>
+							<li>Enhanced Hadoop extraction by 15% with Apache Spark and reduced downtime by 30% on Azure Synapse pipelines.</li>
 						</ul>
 					</p>
 				</div>
@@ -419,23 +455,29 @@
 						<span class="date">Jan 2024 – May 2025</span>
 						<h2>Master of Applied Computer Science</h2>
 						<span class="position">Dalhousie University, Canada</span>
-						<p class="mt-4">CGPA: 4.23 / 4.30<br>
-							– Runner-up in GenAI Hackathon<br>
-							– Tutorial TA for Advanced Cloud Computing<br>
-							– Graduate Mentor at T@DGE<br>
-							– IT Student Navigator
+						<p class="mt-4">
+							<strong>CGPA: 4.23 / 4.30</strong>
+							<ul>
+								<li>Runner-up in GenAI Hackathon</li>
+								<li>Tutorial TA for Advanced Cloud Computing</li>
+								<li>Graduate Mentor at T@DGE</li>
+								<li>IT Student Navigator</li>
+							</ul>
 						</p>
 					</div>
 				</div>
 				<div class="col-md-6">
 					<div class="resume-wrap ftco-animate">
 						<span class="date">Aug 2018 – June 2022</span>
-						<h4>BSc in Computer Science</h4>
+						<h2>BSc in Computer Science</h2>
 						<span class="position">National University of Computer and Emerging Sciences, Pakistan</span>
-						<p class="mt-4">CGPA: 3.64 / 4.00 (Cum Laude)<br>
-							– Technical Lead at Google Developers<br>
-							– Runner-up in Procom’22 (Data Science)<br>
-							– Runner-up in Developer's Day (Data Science)
+						<p class="mt-4">
+							<strong>CGPA: 3.64 / 4.00 (Cum Laude)</strong>
+							<ul>
+								<li>Technical Lead at Google Developers</li>
+								<li>Runner-up in Procom'22 (Data Science)</li>
+								<li>Runner-up in Developer's Day (Data Science)</li>
+							</ul>
 						</p>
 					</div>
 				</div>
@@ -468,8 +510,12 @@
               <a href="https://github.com/OvaizAli" class="block-20 zoom-effect" style="background-image: url('images/apiProject.jpeg');">
               </a>
               <div class="text mt-3 float-right d-block">
-
                 <h3 class="heading"><a href="https://github.com/OvaizAli">REST API Development</a></h3>
+                <div class="tech-tags-container">
+                  <span class="tech-tag">.NET</span>
+                  <span class="tech-tag">C#</span>
+                  <span class="tech-tag">MySQL</span>
+                </div>
                 <p>Built secure, real-time data warehouse & user-friendly Web API (.NET, C#, MySQL) for research project, boosted data accuracy by 98%.</p>
               </div>
             </div>
@@ -479,8 +525,12 @@
               <a href="https://github.com/OvaizAli/Data-Engineering-Project" class="block-20 zoom-effect" style="background-image: url('images/redditProject.jpeg');">
               </a>
               <div class="text mt-3 float-right d-block">
-
                 <h3 class="heading"><a href="https://github.com/OvaizAli/Data-Engineering-Project">Reddit End-to-end Data Pipeline</a></h3>
+                <div class="tech-tags-container">
+                  <span class="tech-tag">Python</span>
+                  <span class="tech-tag">AWS</span>
+                  <span class="tech-tag">Redshift</span>
+                </div>
                 <p>Automate Reddit data extraction, transformation (AWS), and loading into Redshift for analysis.</p>
               </div>
             </div>
@@ -490,8 +540,12 @@
               <a href="https://github.com/OvaizAli/Cricket_Stats_Data_Engineering" class="block-20 zoom-effect" style="background-image: url('images/cricketStats.jpeg');">
               </a>
               <div class="text mt-3 float-right d-block">
-
                 <h3 class="heading"><a href="https://github.com/OvaizAli/Cricket_Stats_Data_Engineering">Cricket Stats Data Engineering</a></h3>
+                <div class="tech-tags-container">
+                  <span class="tech-tag">Python</span>
+                  <span class="tech-tag">Google Cloud</span>
+                  <span class="tech-tag">API</span>
+                </div>
                 <p>Automating data extraction, storage, and processing for in-depth cricket match analysis using Python, Cricbuzz API, Google Cloud tools.</p>
               </div>
             </div>
@@ -505,8 +559,12 @@
 				<a href="https://github.com/OvaizAli/ResumeAnalysis" class="block-20 zoom-effect" style="background-image: url('images/resumeAnalysis.jpeg');">
 				</a>
 				<div class="text mt-3 float-right d-block">
-  
 				  <h3 class="heading"><a href="https://github.com/OvaizAli/ResumeAnalysis">Automated Resume Analysis</a></h3>
+				  <div class="tech-tags-container">
+					<span class="tech-tag">Python</span>
+					<span class="tech-tag">NLP</span>
+					<span class="tech-tag">SpaCy</span>
+				  </div>
 				  <p>NLP streamlines recruitment with skill extraction, entity recognition & custom visualizations (.py, SpaCy, NLTK).</p>
 				</div>
 			  </div>
@@ -589,7 +647,7 @@
           			<span class="icon-phone2"></span>
           		</div>
           		<h3 class="mb-4">Contact Number</h3>
-	            <p><a href="tel://6478606250">+1(782) 234-1914</a></p>
+	            <p><a href="tel://7822341914">+1(782) 234-1914</a></p>
 	          </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex ftco-animate">
